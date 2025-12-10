@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "コインランドリー",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2025-12-10T04:12:06.254160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コインランドリー",
+      "artist": "OGRE YOU ASSHOLE",
+      "has_synced": false,
+      "path": "select/01_コインランドリー_OGRE_YOU_ASSHOLE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コインランドリー",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_コインランドリー_ヤングスキニー.txt"
+    }
+  ]
+}
